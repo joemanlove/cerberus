@@ -1,0 +1,12 @@
+# checking for messages from reddit bot
+https://stackoverflow.com/questions/66175894/how-can-i-run-my-discord-bot-that-updates-from-an-api-without-hitting-discords
+
+# reddit bot multitasking
+https://www.reddit.com/r/redditdev/comments/7vj6ox/can_i_do_other_things_with_praw_while_reading/
+
+# commands for discord bot
+https://discordpy.readthedocs.io/en/stable/ext/commands/commands.html
+
+# Pipe documentation
+https://docs.python.org/3/library/multiprocessing.html#multiprocessing.connection.Connection
+
